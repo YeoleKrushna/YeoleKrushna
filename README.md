@@ -6,12 +6,20 @@
   <img src="https://komarev.com/ghpvc/?username=YeoleKrushna&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
-# 🚀 Krushna Yeole  
-### _AI & ML Engineer • Python Developer • Data Science Enthusiast_  
+<h1 align="center">🚀 Krushna Yeole</h1>
+<h3 align="center"><i>AI & ML Engineer • Python Developer • Data Science Enthusiast</i></h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://resume.krushnayeole.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yeolekrushna)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeolekrushnar@gmail.com)
+<p align="center">
+  <a href="https://resume.krushnayeole.site">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yeolekrushna">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yeolekrushnar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -19,20 +27,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Data+Science+%26+Automation+Enthusiast;Building+Smart+Systems+That+Make+an+Impact" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me  
+---
 
-💡 _Turning data into intelligent systems that make an impact._  
+<h3 align="center">👨‍💻 About Me</h3>
 
-- 🧠 Working on **Language Analyzer** – an AI-powered Marathi Grammar Correction System using **IndicBART + FastAPI**  
-- ☁️ Exploring **Deep Learning** with **Transformers, LLMs and GenAI**  
-- 🧩 Skilled in **Machine Learning, NLP, and scalable backend systems**  
-- 🎯 Passionate about creating **smart, automated, and human-centric tech**  
-- 🎥 Outside code: I love **solving puzzles and exploring new technologies**  
+<p align="center">
+💡 <i>Turning data into intelligent systems that make an impact.</i><br><br>
+🧠 Working on <b>Language Analyzer</b> – an AI-powered Marathi Grammar Correction System using <b>IndicBART + FastAPI</b><br>
+☁️ Exploring <b>Deep Learning</b> with <b>Transformers, LLMs and GenAI</b><br>
+🧩 Skilled in <b>Machine Learning, NLP, and scalable backend systems</b><br>
+🎯 Passionate about creating <b>smart, automated, and human-centric tech</b><br>
+🎥 Outside code: I love <b>solving puzzles and exploring new technologies</b>
+</p>
 
 ---
 
-### ⚙️ Tech Stack  
+<h3 align="center">⚙️ Tech Stack</h3>
 
+<p align="center">
+  
 | **Category** | **Technologies** |
 |---------------|------------------|
 | 💻 **Languages** | Python |
@@ -42,17 +55,19 @@
 | 🗄️ **Databases** | MySQL, SQLAlchemy |
 | 🌐 **Web** | HTML, CSS, RESTful APIs |
 
+</p>
+
 ---
 
-### 📈 GitHub Highlights  
+<h3 align="center">📈 GitHub Highlights</h3>
 
 <p align="center">
   <a href="https://github.com/YeoleKrushna">
     <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
   </a>
   <a href="https://github.com/YeoleKrushna">
-    <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00C6FF&ring=007BFF" height="165" />
-  </a>
+  <img src="https://github-readme-streak-stats-git-main-v1.vercel.app?user=YeoleKrushna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00C6FF&ring=007BFF" height="165" />
+</a>
 </p>
 
 <p align="center">
@@ -63,11 +78,13 @@
 
 ---
 
-### 🌐 Connect with Me  
+<h3 align="center">🌐 Connect with Me</h3>
 
-🌍 **Portfolio:** [krushnayeole.site](https://resume.krushnayeole.site)  
-💼 **LinkedIn:** [linkedin.com/in/yeolekrushna](https://linkedin.com/in/yeolekrushna)  
-📧 **Email:** [yeolekrushnar@gmail.com](mailto:yeolekrushnar@gmail.com)  
+<p align="center">
+  🌍 <b>Portfolio:</b> <a href="https://resume.krushnayeole.site">krushnayeole.site</a><br>
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/yeolekrushna">linkedin.com/in/yeolekrushna</a><br>
+  📧 <b>Email:</b> <a href="mailto:yeolekrushnar@gmail.com">yeolekrushnar@gmail.com</a>
+</p>
 
 ---
 
@@ -75,4 +92,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C6FF&height=120&section=footer"/>
 </p>
 
-⭐ _“Code with curiosity, build with creativity.”_
+<h4 align="center">⭐ “Code with curiosity, build with creativity.” ⭐</h4>
