@@ -15,6 +15,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Data+Science+%26+Automation+Enthusiast;Building+Smart+Systems+That+Make+an+Impact" alt="Typing SVG" />
+</p>
+
 ### 👨‍💻 About Me  
 
 💡 _Turning data into intelligent systems that make an impact._  
@@ -43,13 +47,14 @@
 ### 📈 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YeoleKrushna&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
