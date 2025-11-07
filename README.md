@@ -24,7 +24,7 @@
 💡 _Turning data into intelligent systems that make an impact._  
 
 - 🧠 Working on **Language Analyzer** – an AI-powered Marathi Grammar Correction System using **IndicBART + FastAPI**  
-- ☁️ Exploring **Deep Learning** with **Transformers, LLM and GenAI**  
+- ☁️ Exploring **Deep Learning** with **Transformers, LLMs and GenAI**  
 - 🧩 Skilled in **Machine Learning, NLP, and scalable backend systems**  
 - 🎯 Passionate about creating **smart, automated, and human-centric tech**  
 - 🎥 Outside code: I love **solving puzzles and exploring new technologies**  
@@ -36,7 +36,7 @@
 | **Category** | **Technologies** |
 |---------------|------------------|
 | 💻 **Languages** | Python |
-| 🧠 **AI / ML / NLP** | Scikit-learn, ALL Models, PyTorch, Transformers, LLMs |
+| 🧠 **AI / ML / NLP** | Scikit-learn, PyTorch, Transformers, LLMs |
 | 🧰 **Frameworks** | Django, FastAPI, Flask |
 | 📊 **Data Tools** | Pandas, NumPy, Matplotlib, Seaborn |
 | 🗄️ **Databases** | MySQL, SQLAlchemy |
@@ -47,14 +47,19 @@
 ### 📈 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/YeoleKrushna">
+    <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  </a>
+  <a href="https://github.com/YeoleKrushna">
+    <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00C6FF&ring=007BFF" height="165" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/YeoleKrushna">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
 </p>
-
 
 ---
 
