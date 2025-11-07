@@ -44,18 +44,37 @@
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
-<p align="center">
-  
-| **Category** | **Technologies** |
-|---------------|------------------|
-| 💻 **Languages** | Python |
-| 🧠 **AI / ML / NLP** | Scikit-learn, PyTorch, Transformers, LLMs |
-| 🧰 **Frameworks** | Django, FastAPI, Flask |
-| 📊 **Data Tools** | Pandas, NumPy, Matplotlib, Seaborn |
-| 🗄️ **Databases** | MySQL, SQLAlchemy |
-| 🌐 **Web** | HTML, CSS, RESTful APIs |
+<div align="center">
 
-</p>
+<table>
+  <tr>
+    <th>💻 <b>Languages</b></th>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <th>🧠 <b>AI / ML / NLP</b></th>
+    <td>Scikit-learn, PyTorch, Transformers, LLMs</td>
+  </tr>
+  <tr>
+    <th>🧰 <b>Frameworks</b></th>
+    <td>Django, FastAPI, Flask</td>
+  </tr>
+  <tr>
+    <th>📊 <b>Data Tools</b></th>
+    <td>Pandas, NumPy, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <th>🗄️ <b>Databases</b></th>
+    <td>MySQL, SQLAlchemy</td>
+  </tr>
+  <tr>
+    <th>🌐 <b>Web</b></th>
+    <td>HTML, CSS, RESTful APIs</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
@@ -65,9 +84,6 @@
   <a href="https://github.com/YeoleKrushna">
     <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
   </a>
-  <a href="https://github.com/YeoleKrushna">
-  <img src="https://github-readme-streak-stats-git-main-v1.vercel.app?user=YeoleKrushna&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=00C6FF&ring=007BFF" height="165" />
-</a>
 </p>
 
 <p align="center">
