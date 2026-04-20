@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=YeoleKrushna&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">🚀 Krushna Yeole</h1>
-<h3 align="center"><i>AI & ML Engineer • Python Developer • Data Science Enthusiast</i></h3>
+<h1 align="center">Krushna Yeole</h1>
+<h3 align="center"><i>AI & ML Engineer • Python Developer • Data Science</i></h3>
 
 <p align="center">
   <a href="https://resume.krushnayeole.site">
@@ -97,7 +97,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  🌍 <b>Portfolio:</b> <a href="https://resume.krushnayeole.site">krushnayeole.site</a><br>
+  🌍 <b>Portfolio:</b> <a href="https://resume.krushnayeole.site">krushnayeole.me</a><br>
   💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/yeolekrushna">linkedin.com/in/yeolekrushna</a><br>
   📧 <b>Email:</b> <a href="mailto:yeolekrushnar@gmail.com">yeolekrushnar@gmail.com</a>
 </p>
