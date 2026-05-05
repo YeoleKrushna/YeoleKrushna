@@ -1,111 +1,123 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C6FF&height=180&section=header&text=👋%20Hey%20There!%20I'm%20Krushna%20Yeole&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Krushna%20Yeole&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YeoleKrushna&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
-<h1 align="center">Krushna Yeole</h1>
-<h3 align="center"><i>AI & ML Engineer • Python Developer • Data Science</i></h3>
+<h3 align="center">AI • Machine Learning • Data Science • Backend Systems</h3>
 
 <p align="center">
-  <a href="https://resume.krushnayeole.site">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://krushnayeole.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0F2027?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yeolekrushna">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yeolekrushnar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Python+Developer;Data+Science+%26+Automation+Enthusiast;Building+Smart+Systems+That+Make+an+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+AI+Systems+from+Data+to+Deployment;Machine+Learning+%7C+NLP+%7C+Backend+Engineering;Turning+Ideas+into+Working+Solutions;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-<h3 align="center">👨‍💻 About Me</h3>
+## 👨‍💻 About Me
+
+- 💡 I enjoy building **end-to-end systems** — from data processing to deployment  
+- 🧠 Strong foundation in **Machine Learning, NLP, and data-driven problem solving**  
+- ⚙️ Experience with **backend development, APIs, and workflow-based systems**  
+- ☁️ Worked on **cloud deployment (AWS EC2)** for real-world usage  
+- 🚀 Currently exploring **deep learning, transformers, and scalable AI systems**  
+- 🎯 Goal: Build **practical, efficient, and impactful solutions**  
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-💡 <i>Turning data into intelligent systems that make an impact.</i><br><br>
-🧠 Working on <b>Language Analyzer</b> – an AI-powered Marathi Grammar Correction System using <b>IndicBART + FastAPI</b><br>
-☁️ Exploring <b>Deep Learning</b> with <b>Transformers, LLMs and GenAI</b><br>
-🧩 Skilled in <b>Machine Learning, NLP, and scalable backend systems</b><br>
-🎯 Passionate about creating <b>smart, automated, and human-centric tech</b><br>
-🎥 Outside code: I love <b>solving puzzles and exploring new technologies</b>
+
+<img src="https://skillicons.dev/icons?i=python,sql,django,fastapi,flask,aws,mysql,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+
+</p>
+
+<p align="center">
+<b>Data & Visualization:</b> Pandas • NumPy • Matplotlib • Seaborn  
+</p>
+
+<p align="center">
+<b>Core Areas:</b> Machine Learning • NLP • Data Analysis • Backend Systems  
 </p>
 
 ---
 
-<h3 align="center">⚙️ Tech Stack</h3>
+## 🚀 What I Work On
 
-<div align="center">
-
-<table>
-  <tr>
-    <th>💻 <b>Languages</b></th>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <th>🧠 <b>AI / ML / NLP</b></th>
-    <td>Scikit-learn, PyTorch, Transformers, LLMs</td>
-  </tr>
-  <tr>
-    <th>🧰 <b>Frameworks</b></th>
-    <td>Django, FastAPI, Flask</td>
-  </tr>
-  <tr>
-    <th>📊 <b>Data Tools</b></th>
-    <td>Pandas, NumPy, Matplotlib, Seaborn</td>
-  </tr>
-  <tr>
-    <th>🗄️ <b>Databases</b></th>
-    <td>MySQL, SQLAlchemy</td>
-  </tr>
-  <tr>
-    <th>🌐 <b>Web</b></th>
-    <td>HTML, CSS, RESTful APIs</td>
-  </tr>
-</table>
-
-</div>
-
+- 📊 Building ML models for prediction and data insights  
+- 🧠 NLP systems for language processing and text understanding  
+- ⚙️ Backend systems and APIs for integrating ML models  
+- 🔗 Workflow-based applications solving real-world problems  
 
 ---
 
-<h3 align="center">📈 GitHub Highlights</h3>
+## 📌 Featured Work
+
+🔹 **Language Analyzer – Marathi Grammar Correction System**  
+- Transformer-based NLP system (IndicBART)  
+- End-to-end pipeline: preprocessing → training → inference  
+- Backend + frontend integration  
+- Deployed on AWS EC2  
+
+🔹 **Recipe Popularity Prediction**  
+- ML classification project with feature engineering  
+- Model comparison and performance analysis (~80% accuracy)  
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/YeoleKrushna">
-    <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YeoleKrushna">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+## 🎯 Currently Learning
+
+- Deep Learning & advanced NLP  
+- Improving model performance & optimization  
+- Scalable backend architecture for ML systems  
+
+---
+
+## 🌐 Connect
 
 <p align="center">
-  🌍 <b>Portfolio:</b> <a href="https://resume.krushnayeole.site">krushnayeole.me</a><br>
-  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/yeolekrushna">linkedin.com/in/yeolekrushna</a><br>
-  📧 <b>Email:</b> <a href="mailto:yeolekrushnar@gmail.com">yeolekrushnar@gmail.com</a>
+🌍 <a href="https://krushnayeole.me">Portfolio</a> • 
+💼 <a href="https://linkedin.com/in/yeolekrushna">LinkedIn</a> • 
+📧 <a href="mailto:yeolekrushnar@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C6FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
 
-<h4 align="center">⭐ “Code with curiosity, build with creativity.” ⭐</h4>
+<h4 align="center">⚡ Build. Break. Learn. Repeat.</h4>
