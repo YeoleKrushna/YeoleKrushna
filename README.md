@@ -27,12 +27,11 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-💡 I enjoy building end-to-end systems from data to deployment <br><br>
-🧠 Strong foundation in Machine Learning, NLP, and data-driven problem solving <br>
-⚙️ Experience with backend development, APIs, and workflow systems <br>
-☁️ Deployed real projects using AWS EC2 <br>
-🚀 Exploring deep learning, transformers, and scalable AI systems <br>
-🎯 Focused on practical and efficient solutions
+💡 I build end-to-end systems from data to deployment <br><br>
+🧠 Strong in Machine Learning, NLP, and data-driven problem solving <br>
+⚙️ Experience with backend systems and APIs <br>
+☁️ Deployed real-world projects using AWS EC2 <br>
+🚀 Exploring deep learning and scalable AI systems
 </p>
 
 ---
@@ -59,10 +58,10 @@
 <b>Language Analyzer – Marathi Grammar Correction System</b><br><br>
 
 ✔ Transformer-based NLP system (IndicBART) <br>
-✔ Built full pipeline: preprocessing → training → inference <br>
+✔ Full pipeline: preprocessing → training → inference <br>
 ✔ Backend + frontend integration <br>
 ✔ Deployed on AWS EC2 (on-demand instance) <br>
-✔ Evaluated using BLEU score (~60)
+✔ BLEU score ~60
 </p>
 
 <br>
@@ -70,8 +69,8 @@
 <p align="center">
 <b>Recipe Popularity Prediction</b><br><br>
 
-✔ ML classification project with feature engineering <br>
-✔ Model comparison (Logistic Regression, Decision Tree, Random Forest) <br>
+✔ ML classification with feature engineering <br>
+✔ Model comparison (LR, Decision Tree, Random Forest) <br>
 ✔ Achieved ~80% accuracy
 </p>
 
@@ -80,19 +79,15 @@
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YeoleKrushna&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoleKrushna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +95,7 @@
 <h2 align="center">🎯 Currently Learning</h2>
 
 <p align="center">
-Deep Learning • Advanced NLP • Model Optimization • Scalable AI Systems
+Deep Learning • Advanced NLP • Model Optimization • Scalable Systems
 </p>
 
 ---
