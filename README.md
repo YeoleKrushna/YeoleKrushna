@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Krushna%20Yeole&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">AI • Machine Learning • Data Science • Backend Systems</h3>
+<h2 align="center">AI • Machine Learning • Data Science • Backend Systems</h2>
 
 <p align="center">
   <a href="https://krushnayeole.me">
@@ -24,72 +24,71 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 💡 I enjoy building **end-to-end systems** — from data processing to deployment  
-- 🧠 Strong foundation in **Machine Learning, NLP, and data-driven problem solving**  
-- ⚙️ Experience with **backend development, APIs, and workflow-based systems**  
-- ☁️ Worked on **cloud deployment (AWS EC2)** for real-world usage  
-- 🚀 Currently exploring **deep learning, transformers, and scalable AI systems**  
-- 🎯 Goal: Build **practical, efficient, and impactful solutions**  
-
----
-
-## ⚙️ Tech Stack
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql,django,fastapi,flask,aws,mysql,git,github" />
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-
-</p>
-
-<p align="center">
-<b>Data & Visualization:</b> Pandas • NumPy • Matplotlib • Seaborn  
-</p>
-
-<p align="center">
-<b>Core Areas:</b> Machine Learning • NLP • Data Analysis • Backend Systems  
+💡 I enjoy building end-to-end systems from data to deployment <br><br>
+🧠 Strong foundation in Machine Learning, NLP, and data-driven problem solving <br>
+⚙️ Experience with backend development, APIs, and workflow systems <br>
+☁️ Deployed real projects using AWS EC2 <br>
+🚀 Exploring deep learning, transformers, and scalable AI systems <br>
+🎯 Focused on practical and efficient solutions
 </p>
 
 ---
 
-## 🚀 What I Work On
+<h2 align="center">⚙️ Tech Stack</h2>
 
-- 📊 Building ML models for prediction and data insights  
-- 🧠 NLP systems for language processing and text understanding  
-- ⚙️ Backend systems and APIs for integrating ML models  
-- 🔗 Workflow-based applications solving real-world problems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,django,fastapi,flask,aws,mysql,git,github,pytorch,sklearn" />
+</p>
 
----
+<p align="center">
+<b>Data & Visualization:</b> Pandas • NumPy • Matplotlib • Seaborn
+</p>
 
-## 📌 Featured Work
-
-🔹 **Language Analyzer – Marathi Grammar Correction System**  
-- Transformer-based NLP system (IndicBART)  
-- End-to-end pipeline: preprocessing → training → inference  
-- Backend + frontend integration  
-- Deployed on AWS EC2  
-
-🔹 **Recipe Popularity Prediction**  
-- ML classification project with feature engineering  
-- Model comparison and performance analysis (~80% accuracy)  
+<p align="center">
+<b>Core Areas:</b> Machine Learning • NLP • Data Analysis • Backend Systems
+</p>
 
 ---
 
-## 📈 GitHub Activity
+<h2 align="center">🚀 Featured Work</h2>
+
+<p align="center">
+<b>Language Analyzer – Marathi Grammar Correction System</b><br><br>
+
+✔ Transformer-based NLP system (IndicBART) <br>
+✔ Built full pipeline: preprocessing → training → inference <br>
+✔ Backend + frontend integration <br>
+✔ Deployed on AWS EC2 (on-demand instance) <br>
+✔ Evaluated using BLEU score (~60)
+</p>
+
+<br>
+
+<p align="center">
+<b>Recipe Popularity Prediction</b><br><br>
+
+✔ ML classification project with feature engineering <br>
+✔ Model comparison (Logistic Regression, Decision Tree, Random Forest) <br>
+✔ Achieved ~80% accuracy
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YeoleKrushna&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YeoleKrushna&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YeoleKrushna&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -98,15 +97,15 @@
 
 ---
 
-## 🎯 Currently Learning
+<h2 align="center">🎯 Currently Learning</h2>
 
-- Deep Learning & advanced NLP  
-- Improving model performance & optimization  
-- Scalable backend architecture for ML systems  
+<p align="center">
+Deep Learning • Advanced NLP • Model Optimization • Scalable AI Systems
+</p>
 
 ---
 
-## 🌐 Connect
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
 🌍 <a href="https://krushnayeole.me">Portfolio</a> • 
